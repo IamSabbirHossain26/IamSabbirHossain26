@@ -3,7 +3,6 @@
 ### 🔭 About Me:
 - 🔭 I’m currently working on a SaaS product
 - 👯 I’m looking to collaborate on open source projects
-- 🌱 I’m currently learning GraphQL
 - 💬 Ask me about **Python, Django, React**
 
 ---
