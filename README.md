@@ -12,13 +12,13 @@
   <a href="mailto:sabbir200226@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/md-sabbir-hossain-853918258">
+  <a href="https://www.linkedin.com/in/IamSabbirHossain26">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/IamSabbirHossain26">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://leetcode.com/u/Sabbir26/">
+  <a href="https://leetcode.com/u/IamSabbirHossain26/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
@@ -49,25 +49,25 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SabbirSoftEngr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IamSabbirHossain26&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabbirSoftEngr&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamSabbirHossain26&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirSoftEngr&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamSabbirHossain26&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SabbirSoftEngr&theme=flat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IamSabbirHossain26&theme=flat" />
 </p>
 
 ---
 
 ### 💰 You can help me by Donating
-<a href="buymeacoffee.com/SabbirHossain26">
+<a href="buymeacoffee.com/IamSabbirHossain26">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
