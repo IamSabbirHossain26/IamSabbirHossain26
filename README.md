@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sabbir 👋</h1>
 <p align="center">
-  Python • Django • React • SaaS Builder
+  Python • Django • React • Tailwind • SaaS Builder
 </p>
 
 <p align="center">
@@ -20,45 +20,47 @@
 
 ---
 
-## About
-- 🔭 Building a **SaaS product**
-- 👯 Open to collaborating on **open-source**
-- 💬 Ask me about **Python, Django, React, REST APIs**
-- 🎯 Focus: clean architecture, performance, and shipping fast
+## About Me
+- 🔭 Currently building a **SaaS product**
+- 👯 Open to collaborating on **open-source projects**
+- 💬 Ask me about **Python, Django, React, Tailwind**
+- 🎯 Focused on clean architecture, performance, and real-world problem solving
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-## Featured Projects
-> Replace these with your best 2–4 projects (live demo + repo link). Recruiters love this.
+## 📌 Featured Projects
 
-- **Project Name 1** — one-line value statement  
-  Repo: https://github.com/IamSabbirHossain26/REPO_NAME • Demo: https://YOUR_DEMO_LINK
+<h2 align="left">Coming Soon.....</h2>
+<p align="left"><em>Exciting projects are on the way</em></p>
 
-- **Project Name 2** — one-line value statement  
-  Repo: https://github.com/IamSabbirHossain26/REPO_NAME • Demo: https://YOUR_DEMO_LINK
 
 ---
 
-## GitHub Overview
-> I’m intentionally hiding “commit count” here because GitHub widgets often undercount private/org work.
+## 📊 GitHub Overview
+> Commit counts are intentionally hidden because GitHub widgets undercount private & organization work.
 
 <p align="center">
   <img
@@ -78,8 +80,8 @@
   />
 </p>
 
-<!-- OPTIONAL (Sometimes unstable). Uncomment if it loads reliably for you.
-## Trophies
+<!--
+Optional trophies section (can be unstable)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=IamSabbirHossain26&theme=onedark&no-frame=true&column=6" />
 </p>
@@ -87,14 +89,14 @@
 
 ---
 
-## Contact
+## 📫 Contact
 - 📧 Email: **sabbir200226@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/IamSabbirHossain26
 - 🧠 LeetCode: https://leetcode.com/u/IamSabbirHossain26/
 
 ---
 
-## Support
+## ☕ Support Me
 <a href="https://buymeacoffee.com/IamSabbirHossain26">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
