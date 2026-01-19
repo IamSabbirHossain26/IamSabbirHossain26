@@ -64,8 +64,9 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IamSabbirHossain26&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IamSabbirHossain26&theme=gruvbox&no-frame=true&column=6" />
 </p>
+
 
 ---
 
