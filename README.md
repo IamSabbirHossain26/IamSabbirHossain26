@@ -59,8 +59,8 @@
 
 ## 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamSabbirHossain26&show_icons=true&theme=tokyonight&hide_border=true&hide=commits" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamSabbirHossain26&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
+  <img src="./github-profile-stats.svg" height="165" alt="GitHub Stats" />
+  <img src="./top-langs.svg" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
