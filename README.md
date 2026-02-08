@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Sabbir 👋</h1>
+
 <p align="center">
   Python • Django • React • Tailwind • SaaS Builder
 </p>
@@ -20,7 +21,7 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 - 🔭 Currently building a **SaaS product**
 - 👯 Open to collaborating on **open-source projects**
 - 💬 Ask me about **Python, Django, React, Tailwind**
@@ -52,7 +53,7 @@
 ---
 
 ## 📌 Featured Projects
-<h3>Coming Soon...</h3>
+🚧 *Coming Soon… exciting projects are on the way.*
 
 ---
 
@@ -60,33 +61,15 @@
 > Commit counts are intentionally hidden because GitHub widgets undercount private & organization work.
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=IamSabbirHossain26&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <img src="./github-readme-stats.svg" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamSabbirHossain26&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=IamSabbirHossain26&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
 
 ---
 
 ## 📫 Contact
-- 📧 Email: **sabbir200226@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/IamSabbirHossain26
-- 🧠 LeetCode: https://leetcode.com/u/IamSabbirHossain26/
+- 📧 **Email:** sabbir200226@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/IamSabbirHossain26  
+- 🧠 **LeetCode:** https://leetcode.com/u/IamSabbirHossain26/
 
 ---
 
