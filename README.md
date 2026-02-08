@@ -52,10 +52,7 @@
 ---
 
 ## 📌 Featured Projects
-
-<h2 align="left">Coming Soon.....</h2>
-<p align="left"><em>Exciting projects are on the way</em></p>
-
+<h3>Coming Soon...</h3>
 
 ---
 
@@ -64,28 +61,24 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=IamSabbirHossain26&show_icons=true&theme=tokyonight&hide_border=true&hide=commits"
+    src="https://github-readme-stats.vercel.app/api?username=IamSabbirHossain26&show_icons=true&theme=tokyonight&hide_border=true&hide=commits&cache_seconds=86400"
     height="165"
+    alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamSabbirHossain26&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamSabbirHossain26&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
     height="165"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=IamSabbirHossain26&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=IamSabbirHossain26&theme=tokyonight&hide_border=true&cache_seconds=86400"
     height="170"
+    alt="GitHub Streak"
   />
 </p>
-
-<!--
-Optional trophies section (can be unstable)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IamSabbirHossain26&theme=onedark&no-frame=true&column=6" />
-</p>
--->
 
 ---
 
@@ -97,6 +90,6 @@ Optional trophies section (can be unstable)
 ---
 
 ## ☕ Support Me
-<a href="buymeacoffee.com/SabbirHossain26">
+<a href="https://buymeacoffee.com/SabbirHossain26">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
