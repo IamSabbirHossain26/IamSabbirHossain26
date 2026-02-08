@@ -59,12 +59,12 @@
 
 ## 📊 GitHub Overview
 <p align="center">
-  <img src="./github-profile-stats.svg" height="165" alt="GitHub Stats" />
-  <img src="./top-langs.svg" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IamSabbirHossain26&show_icons=true&theme=tokyonight&hide_border=true&hide=commits&v=1" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamSabbirHossain26&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=1" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamSabbirHossain26&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamSabbirHossain26&theme=tokyonight&hide_border=true&v=1" height="170" alt="GitHub Streak" />
 </p>
 
 ---
