@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Sabbir 👋</h1>
-
 <p align="center">
   Python • Django • React • Tailwind • SaaS Builder
 </p>
@@ -21,7 +20,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 - 🔭 Currently building a **SaaS product**
 - 👯 Open to collaborating on **open-source projects**
 - 💬 Ask me about **Python, Django, React, Tailwind**
@@ -53,27 +52,31 @@
 ---
 
 ## 📌 Featured Projects
-🚧 *Coming Soon… exciting projects are on the way.*
+<h3 align="left">🚧 Work in Progress...</h3>
+<p align="left"><em>Building something awesome. Stay tuned!</em></p>
 
 ---
 
 ## 📊 GitHub Overview
-> Commit counts are intentionally hidden because GitHub widgets undercount private & organization work.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IamSabbirHossain26&show_icons=true&theme=tokyonight&hide_border=true&hide=commits" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamSabbirHossain26&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
+</p>
 
 <p align="center">
-  <img src="./github-readme-stats.svg" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamSabbirHossain26&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📫 Contact
-- 📧 **Email:** sabbir200226@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/IamSabbirHossain26  
-- 🧠 **LeetCode:** https://leetcode.com/u/IamSabbirHossain26/
+- 📧 Email: **sabbir200226@gmail.com**
+- 💼 LinkedIn: [IamSabbirHossain26](https://www.linkedin.com/in/IamSabbirHossain26)
+- 🧠 LeetCode: [IamSabbirHossain26](https://leetcode.com/u/IamSabbirHossain26/)
 
 ---
 
 ## ☕ Support Me
-<a href="https://buymeacoffee.com/SabbirHossain26">
+<a href="https://www.buymeacoffee.com/SabbirHossain26">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
