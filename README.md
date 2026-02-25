@@ -77,6 +77,6 @@
 ---
 
 ## ☕ Support Me
-<a href="https://www.buymeacoffee.com/SabbirHossain26">
+<!-- <a href="https://www.buymeacoffee.com/SabbirHossain26">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
+</a> -->
