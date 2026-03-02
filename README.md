@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sabbir 👋</h1>
 <p align="center">
-  Python • Django • React • Tailwind • SaaS Builder
+  Python • Django • Javascript • React • Tailwind • SaaS Builder
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ## 🚀 About Me
 - 🔭 Currently building a **SaaS product**
 - 👯 Open to collaborating on **open-source projects**
-- 💬 Ask me about **Python, Django, React, Tailwind**
+- 💬 Ask me about **Python, Django, Javascript, React, Tailwind**
 - 🎯 Focused on clean architecture, performance, and real-world problem solving
 
 ---
