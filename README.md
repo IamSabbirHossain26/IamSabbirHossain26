@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sabbir 👋</h1>
+<h1 align="center">Hi, I'm Sabbir Hossain 👋</h1>
 <p align="center">
   Python • Django • Javascript • React • Tailwind • SaaS Builder
 </p>
