@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Hey Here's About Me
 - 🔭 Currently building a **SaaS product**
 - 👯 Open to collaborating on **open-source projects**
 - 💬 Ask me about **Python, Django, Javascript, Typescript, React, Tailwind**
