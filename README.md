@@ -51,7 +51,7 @@
 
 ## 📌 Featured Projects
 <h3 align="left">🚧 Work in Progress...</h3>
-<p align="left"><em>Building something awesome. Stay tuned!</em></p>
+<p align="left"><em>Building something awesome. Stay tuned! Something is comming shortly!!</em></p>
 
 ---
 
