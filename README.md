@@ -53,16 +53,6 @@
     src="https://komarev.com/ghpvc/?username=IamSabbirHossain26&amp;label=Profile%20Views&amp;color=3776AB&amp;style=flat-square"
     alt="Profile views"
   />
-
-  <img
-    src="https://img.shields.io/github/followers/IamSabbirHossain26?label=Followers&amp;style=flat-square&amp;logo=github"
-    alt="GitHub followers"
-  />
-
-  <img
-    src="https://img.shields.io/github/stars/IamSabbirHossain26?affiliations=OWNER&amp;style=flat-square&amp;logo=github&amp;label=Total%20Stars"
-    alt="GitHub stars"
-  />
 </p>
 
 ---
