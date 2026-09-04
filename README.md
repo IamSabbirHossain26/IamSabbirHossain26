@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sabbir Hossain 👋</h1>
 
 <h3 align="center">
-  Software Engineer • Full-Stack Developer • SaaS Product Builder • Server &amp; Deployment Manager
+  Software Engineer • Full-Stack Developer • SaaS Product Builder • Server &amp; Deployment Manager • Bugs Slover
 </h3>
 
 <p align="center">
